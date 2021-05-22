@@ -1,0 +1,138 @@
+vi q_2.sh
+chomd +x q_2.sh
+./q_2.sh
+    December 2002   
+Su Mo Tu We Th Fr Sa
+ 1  2  3  4  5  6  7
+ 8  9 10 11 12 13 14
+15 16 17 18 19 20 21
+22 23 24 25 26 27 28
+29 30 31
+
+Resposta:TU
+
+
+
+[demo@host-2-89 yearfile]$ cd
+[demo@host-2-89 ~]$ vi tuturial1_q3.sh
+[demo@host-2-89 ~]$ chmod +x tuturial1_q3.sh
+[demo@host-2-89 ~]$ ./tuturial1_q3.sh
+                               2005                               
+
+       January               February                 March       
+Su Mo Tu We Th Fr Sa   Su Mo Tu We Th Fr Sa   Su Mo Tu We Th Fr Sa
+                   1          1  2  3  4  5          1  2  3  4  5
+ 2  3  4  5  6  7  8    6  7  8  9 10 11 12    6  7  8  9 10 11 12
+ 9 10 11 12 13 14 15   13 14 15 16 17 18 19   13 14 15 16 17 18 19
+16 17 18 19 20 21 22   20 21 22 23 24 25 26   20 21 22 23 24 25 26
+23 24 25 26 27 28 29   27 28                  27 28 29 30 31
+30 31
+        April                   May                   June        
+Su Mo Tu We Th Fr Sa   Su Mo Tu We Th Fr Sa   Su Mo Tu We Th Fr Sa
+                1  2    1  2  3  4  5  6  7             1  2  3  4
+ 3  4  5  6  7  8  9    8  9 10 11 12 13 14    5  6  7  8  9 10 11
+10 11 12 13 14 15 16   15 16 17 18 19 20 21   12 13 14 15 16 17 18
+17 18 19 20 21 22 23   22 23 24 25 26 27 28   19 20 21 22 23 24 25
+24 25 26 27 28 29 30   29 30 31               26 27 28 29 30
+
+        July                  August                September     
+Su Mo Tu We Th Fr Sa   Su Mo Tu We Th Fr Sa   Su Mo Tu We Th Fr Sa
+                1  2       1  2  3  4  5  6                1  2  3
+ 3  4  5  6  7  8  9    7  8  9 10 11 12 13    4  5  6  7  8  9 10
+10 11 12 13 14 15 16   14 15 16 17 18 19 20   11 12 13 14 15 16 17
+17 18 19 20 21 22 23   21 22 23 24 25 26 27   18 19 20 21 22 23 24
+24 25 26 27 28 29 30   28 29 30 31            25 26 27 28 29 30
+31
+       October               November               December      
+Su Mo Tu We Th Fr Sa   Su Mo Tu We Th Fr Sa   Su Mo Tu We Th Fr Sa
+                   1          1  2  3  4  5                1  2  3
+ 2  3  4  5  6  7  8    6  7  8  9 10 11 12    4  5  6  7  8  9 10
+ 9 10 11 12 13 14 15   13 14 15 16 17 18 19   11 12 13 14 15 16 17
+16 17 18 19 20 21 22   20 21 22 23 24 25 26   18 19 20 21 22 23 24
+23 24 25 26 27 28 29   27 28 29 30            25 26 27 28 29 30 31
+30 31
+
+
+
+i tuturial1_q4.sh
+[demo@host-2-89 ~]$ chmod +x tuturial1_q4.sh
+[demo@host-2-89 ~]$ ./tuturial1_q4.sh
+.   .bash_history  .bash_profile  .cache   .mozilla  tuturial1_q3.sh  .tuturial1_q4.sh.swp  yearfile
+..  .bash_logout   .bashrc        .config  temp      tuturial1_q4.sh  .viminfo
+
+demo@host-2-105 ~]$ vi tutorial1_q5.sh
+[demo@host-2-105 ~]$ chmod +x  tutorial1_q5.sh
+[demo@host-2-105 ~]$ ./tutorial1_q5.sh
+total 36
+drwx------. 7 demo tutorial 4096 May 21 18:50 .
+drwxr-xr-x. 4 root root       46 May 17 18:41 ..
+-rw-------. 1 demo tutorial 1799 May 21 18:36 .bash_history
+-rw-r--r--. 1 demo tutorial   18 Dec  6  2016 .bash_logout
+-rw-r--r--. 1 demo tutorial  193 Dec  6  2016 .bash_profile
+-rw-r--r--. 1 demo tutorial  231 Dec  6  2016 .bashrc
+drwxr-xr-x. 3 demo tutorial   17 May 17 18:54 .cache
+drwxr-xr-x. 3 demo tutorial   17 May 17 18:54 .config
+drwxr-xr-x. 4 demo tutorial   37 Sep  8  2014 .mozilla
+drwxr-xr-x. 2 demo tutorial    6 May 19 19:10 temp
+-rwxr-xr-x. 1 demo tutorial   30 May 21 18:50 tutorial1_q5.sh
+-rwxr-xr-x. 1 demo tutorial   22 May 20 21:17 tuturial1_q3.sh
+-rwxr-xr-x. 1 demo tutorial   21 May 20 21:44 tuturial1_q4.sh
+-rw-------. 1 demo tutorial 4058 May 21 18:50 .viminfo
+drwxr-xr-x. 2 demo tutorial    6 May 20 21:04 yearfile
+Respostas: 17
+
+
+
+
+
+
+cp yerafile yearfile2
+cp yearfile yearfile3
+
+./tutorial1_q8.sh
+[demo@host-2-89 ~]$ ls
+temp  thismonth  thisyear  tutorial1_q5.sh  tutorial1_q7.sh  tutorial1_q8.sh  tuturial1_q3.sh  tuturial1_q4.sh  yearfile  yearfile2
+
+i tutorial1_q9.sh
+[demo@host-2-89 ~]$ chmod +x tutorial1_q9.sh
+[demo@host-2-89 ~]$ ./tutorial1_q9.sh
+[demo@host-2-89 ~]$ ls
+temp  thismonth  thisyear  tutorial1_q5.sh  tutorial1_q7.sh  tutorial1_q8.sh  tutorial1_q9.sh  tuturial1_q3.sh  tuturial1_q4.sh  yearfile2
+[demo@host-2-89 ~]$ 
+
+
+./tutorial2_q2.sh
+[demo@host-2-177 ~]$ ls
+bigfile  scripts  thismonth  tutorial1_q5.sh  tutorial1_q8.sh  tutorial2_q2.sh  tuturial1_q4.sh  yearfile2
+letters  temp     thisyear   tutorial1_q7.sh  tutorial1_q9.sh  tuturial1_q3.sh  work
+[demo@host-2-177 ~]$ cd \work
+[demo@host-2-177 work]$ ls
+misc  progs  tutorial
+
+
+chmod +x tutorial2_q3.sh
+[demo@host-2-177 ~]$ ./tutorial2_q3.sh
+[demo@host-2-177 ~]$ cd \work/misc
+[demo@host-2-177 misc]$ ls
+group  vimrc
+
+i tutorial2_q4.sh
+[demo@host-2-177 ~]$ ./tutorial2_q4.sh
+mv: cannot move ‘vimrc’ to ‘/progs’: Permission denied
+group  vimrc
+
+
+./tutorial2_q7.sh
+/home/demo
+Resposta:/var/lib/mysql
+./tutorial2_q7.sh: line 5: /home/demo: Is a directory
+
+./tutorial2_q8.sh
+[demo@host-2-177 ~]$ ls
+bigfile    Gordon   temp       tutorial1_q5.sh  tutorial1_q9.sh  tutorial2_q4.sh  tutorial2_q8.sh  work
+documents  letters  thismonth  tutorial1_q7.sh  tutorial2_q2.sh  tutorial2_q5.sh  tuturial1_q3.sh  workmisc
+gordon     scripts  thisyear   tutorial1_q8.sh  tutorial2_q3.sh  tutorial2_q7.sh  tuturial1_q4.sh  yearfile2
+
+vi wildcart3_q1.sh
+[demo@host-2-177 ~]$ ./wildcart3_q1.sh
+let1  let2  let3
